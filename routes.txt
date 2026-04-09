@@ -1,0 +1,5 @@
+API Endpoints:
+
+GET /api/policies → Get insurance policies  
+POST /api/user → Send user data  
+POST /api/risk → Get risk analysis  
